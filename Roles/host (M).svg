@@ -1,0 +1,27 @@
+<svg data-cover="arms:covered" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1553) translate(-213.00 -269.00)">
+<rect x="50" y="150" width="140" height="300" rx="6" fill="#cdb79e" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="68" y="168" width="104" height="264" rx="4" fill="#9a7b58" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="154" cy="300" r="6" fill="#444" stroke="#1a1a1a" stroke-width="0"/>
+<polygon points="288,197 352,197 350,305 290,305" fill="#2f3e72" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="302" y1="303" x2="296" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<line x1="338" y1="303" x2="344" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="296" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="344" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="290" y1="199" x2="268" y2="153" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="350" y1="199" x2="372" y2="153" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="320" y1="197" x2="320" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 284.0 197 L 356.0 197 L 370.0 455 L 270.0 455 Z" fill="#2f3e72" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="320" y1="209" x2="320" y2="449" stroke="#3d4f88" stroke-width="2" stroke-linecap="round"/>
+<path d="M 294.0 223 L 280.0 445" fill="none" stroke="#222e57" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 346.0 223 L 360.0 445" fill="none" stroke="#222e57" stroke-width="2" stroke-linejoin="round"/>
+<circle id="h1" data-fig="ma" cx="320" cy="130" r="40" fill="#7a4a26" stroke="#1a1a1a" stroke-width="6" class="skin"/>
+<path d="M 280 130 Q 280 80 320 80 Q 360 80 360 130 Q 320 103 280 130 Z" fill="#241c14" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 272.0 140 Q 270.0 68 320.0 68 Q 370.0 68 368.0 140 Q 320.0 98 272.0 140 Z" fill="#2f3e72" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 278.0 124 L 362.0 124 L 365.0 178 Q 320.0 192 275.0 178 Z" fill="#2f3e72" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 278.0 124 Q 320.0 118 362.0 124" fill="none" stroke="#2f3e72" stroke-width="4" stroke-linejoin="round"/>
+<rect x="298" y="123" width="44" height="7" rx="0" fill="#7a4a26" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="305" y1="127" x2="314" y2="127" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<line x1="326" y1="127" x2="335" y2="127" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<path d="M 364.0 170 L 378.0 247 L 364.0 251 Z" fill="#222e57" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 284.0 140 Q 320.0 174 356.0 140" fill="none" stroke="#3d4f88" stroke-width="2" stroke-linejoin="round"/>
+</g></svg>

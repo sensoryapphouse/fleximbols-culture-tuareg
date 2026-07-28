@@ -1,0 +1,42 @@
+<svg data-cover="arms:covered" xmlns="http://www.w3.org/2000/svg" viewBox="35.65 46.74 444.12 444.12"><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata>
+<polygon points="138,197 202,197 200,357 140,357" fill="#2f3e72" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+<line x1="142" y1="355" x2="142" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+
+<line x1="202" y1="355" x2="202" y2="455" stroke="#39425c" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="142" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="202" cy="457" rx="13" ry="7" fill="#33373d"/>
+<line x1="140" y1="199" x2="140" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+
+<line x1="170" y1="197" x2="170" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 134.0 197 L 206.0 197 L 220.0 455 L 120.0 455 Z" fill="#2f3e72" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="170" y1="209" x2="170" y2="449" stroke="#3d4f88" stroke-width="2" stroke-linecap="round"/>
+<path d="M 144.0 223 L 130.0 445" fill="none" stroke="#222e57" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 196.0 223 L 210.0 445" fill="none" stroke="#222e57" stroke-width="2" stroke-linejoin="round"/>
+<line x1="140" y1="199" x2="140" y2="305" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+<line x1="140" y1="199" x2="140" y2="305" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="200" y1="199" x2="296" y2="329" stroke="#ffffff" stroke-width="21" stroke-linecap="round"/>
+<line x1="200" y1="199" x2="296" y2="329" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="170" cy="130" r="40" fill="#7a4a26" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 130 130 Q 130 80 170 80 Q 210 80 210 130 Q 170 103 130 130 Z" fill="#241c14" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 122.0 140 Q 120.0 68 170.0 68 Q 220.0 68 218.0 140 Q 170.0 98 122.0 140 Z" fill="#2f3e72" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 128.0 124 L 212.0 124 L 215.0 178 Q 170.0 192 125.0 178 Z" fill="#2f3e72" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 128.0 124 Q 170.0 118 212.0 124" fill="none" stroke="#2f3e72" stroke-width="4" stroke-linejoin="round"/>
+<rect x="148" y="123" width="44" height="7" rx="0" fill="#7a4a26" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="155" y1="127" x2="164" y2="127" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<line x1="176" y1="127" x2="185" y2="127" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<path d="M 214.0 170 L 228.0 247 L 214.0 251 Z" fill="#222e57" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 134.0 140 Q 170.0 174 206.0 140" fill="none" stroke="#3d4f88" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 252 305 Q 238 379 330 383 Q 422 379 408 305 Z" fill="#9fd3ef" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 252 305 Q 330 323 408 305" fill="none" stroke="#5aa6cf" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="330" cy="317" r="18" fill="#7a4a26" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="324" cy="314" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="336" cy="314" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="290" cy="329" r="6" fill="#ffffff" stroke="#7ec8f0" stroke-width="2"/>
+<circle cx="374" cy="335" r="6" fill="#ffffff" stroke="#7ec8f0" stroke-width="2"/>
+<circle cx="310" cy="345" r="6" fill="#ffffff" stroke="#7ec8f0" stroke-width="2"/>
+<circle cx="348" cy="323" r="6" fill="#ffffff" stroke="#7ec8f0" stroke-width="2"/>
+<line x1="200" y1="199" x2="296" y2="329" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<circle cx="296" cy="329" r="10" fill="#7a4a26" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 256 115 C 241 102 241 117 256 125 C 271 117 271 102 256 115 Z" fill="#e0473c" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</svg>
